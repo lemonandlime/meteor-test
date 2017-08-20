@@ -59,7 +59,10 @@
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/logging/1.1.17/web.browser/logging.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/logging/1.1.17/web.browser/logging_cordova.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/diff-sequence/1.0.7/web.browser/diff.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.9/web.browser/migration.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.9/web.browser/reactive-dict.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/dynamic-import/0.1.1/web.browser/dynamic-versions.js" />
+        <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.9/web.browser/reactive-dict-tests.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/dynamic-import/0.1.1/web.browser/security.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/dynamic-import/0.1.1/web.browser/cache.js" />
         <item url="file://$USER_HOME$/AppData/Local/.meteor/packages/dynamic-import/0.1.1/web.browser/client.js" />
@@ -207,7 +210,10 @@
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/logging/1.1.17/web.browser/logging.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/logging/1.1.17/web.browser/logging_cordova.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/diff-sequence/1.0.7/web.browser/diff.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.9/web.browser/migration.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.9/web.browser/reactive-dict.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/dynamic-import/0.1.1/web.browser/dynamic-versions.js" />
+      <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/reactive-dict/1.1.9/web.browser/reactive-dict-tests.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/dynamic-import/0.1.1/web.browser/security.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/dynamic-import/0.1.1/web.browser/cache.js" />
       <root url="file://$USER_HOME$/AppData/Local/.meteor/packages/dynamic-import/0.1.1/web.browser/client.js" />

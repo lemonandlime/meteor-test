@@ -3,7 +3,7 @@ import { Tasks} from "../api/task";
 import './task.html';
 
 Template.task.events({
-    'click toggle-checked'() {
+    'click .toggle-checked'() {
         Tasks.update(this._id, {
             $set: { checked: ! this.checked},
         });
@@ -11,5 +11,5 @@ Template.task.events({
     'click .delete'(){
         Tasks.remove(this._id);
     },
-    })
+    });
 
