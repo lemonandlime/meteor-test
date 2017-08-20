@@ -2,12 +2,14 @@
 <div class="container">
     <header>
         <h1>Todo List</h1>
+        <h3>Incomplete: {{incompleteTaskCount}}</h3>
 
-
-        <label class="hide-completed">
-            <input type="checkbox"/>
-            Hide completed tasks
-        </label>
+        <div class="incomplete-container" align="right">
+            <label class="hide-completed">
+                <input type="checkbox"/>
+                Hide completed tasks
+            </label>
+        </div>
 
         <form class="new-task">
             <input type="text" name="text" placeholder="Add new task">

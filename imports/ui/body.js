@@ -21,6 +21,10 @@ Template.body.helpers({
         //return [{ text: 'Kalle'},]
         return Tasks.find(filter, { sort: { createdAt: -1 }});
     },
+    incompleteTaskCount() {
+        const inCompleteFilter = { checked: {$ne: true} };
+        return Tasks.find(inCompleteFilter).count();
+    }
 });
 
 Template.body.events({
